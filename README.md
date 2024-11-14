@@ -38,7 +38,7 @@ print(f"Foolbox version: {foolbox.__version__}") # Проверка версии
 print(f"CleverHans version: {cleverhans.__version__}") # Проверка версии CleverHans
 
 ```
-![image]()
+![image](https://github.com/Archangel15520/azsii1/blob/main/screemshot/1.JPG)
 
 # Загрузка и обучение простой модели на датасете MNIST:
 
@@ -73,7 +73,7 @@ print(f"Test accuracy: {test_acc}")
 
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii1/blob/main/screemshot/2.JPG)
 
 # Сохранение модели
 
@@ -87,4 +87,4 @@ files.download('mnist_model.h5')
 
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii1/blob/main/screemshot/3.JPG)
